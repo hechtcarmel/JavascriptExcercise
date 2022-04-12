@@ -1,24 +1,26 @@
 const readlineSync = require("readline-sync");
 
-let employeesData = null;
-let employeesIdMap = null;
+function handleUserInput(employeesData) {
+  const employeesIdMap = new Map(
+    employeesData.map((employee) => [employee.id, employee])
+  );
 
-function handleUserInput(employeesMapArg, employeesIdMapArg) {
-  employeesData = employeesMapArg;
-  employeesIdMap = employeesIdMapArg;
-
-  console.log('\nPlease enter your command ( "help" to get help. Duh):\n');
-  readlineSync.promptCL({
-    help: handleHelpCommand,
-    city: handleCityCommand,
-    salary: handleSalaryCommand,
-    above: handleAboveCommand,
-    exit: handleExitCommand,
-    _: handleCommandNotFount,
-  });
+  while (true) {
+    console.log('\nPlease enter your command ( "help" to get help. Duh):\n');
+    readlineSync.promptCL({
+      help: handleHelpCommand,
+      city: (city) => {
+        handleCityCommand(employeesData, city);
+      },
+      salary: (id) => handleSalaryCommand(employeesIdMap, id),
+      above: (aboveSalary) => handleAboveCommand(employeesData, aboveSalary),
+      exit: handleExitCommand,
+      _: handleCommandNotFound,
+    });
+  }
 }
 
-function handleCommandNotFount() {
+function handleCommandNotFound() {
   console.log("Sorry, the command is not available.");
 }
 function handleHelpCommand() {
@@ -36,12 +38,12 @@ function handleExitCommand() {
   console.log("Exiting...");
   process.exit(0);
 }
-function handleCityCommand(city) {
+function handleCityCommand(employeesData, city) {
   city = city.toLowerCase();
   let totalSalary = 0;
   employeesData.forEach((employee) => {
     if (employee.city.toLowerCase() === city) {
-      const currTotalSalary = _calcTotalSalary(employee.salary);
+      const currTotalSalary = calcTotalSalary(employee.salary);
 
       totalSalary += currTotalSalary;
     }
@@ -49,7 +51,7 @@ function handleCityCommand(city) {
 
   console.log(`Total salary of all employees in ${city} is ${totalSalary}`);
 }
-function handleAboveCommand(above) {
+function handleAboveCommand(employeesData, above) {
   above = parseInt(above);
   //check if above is valid
   if (!Number.isInteger(above)) {
@@ -60,13 +62,13 @@ function handleAboveCommand(above) {
   console.log(`Employes who earned above ${above}: `);
   console.log(employeesData);
   employeesData.forEach((employee) => {
-    const totalSalary = _calcTotalSalary(employee.salary);
+    const totalSalary = calcTotalSalary(employee.salary);
     if (totalSalary > above) {
       console.log(employee.id + " - " + totalSalary);
     }
   });
 }
-function handleSalaryCommand(id) {
+function handleSalaryCommand(employeesIdMap, id) {
   id = parseInt(id);
 
   //check if id is valid
@@ -79,14 +81,14 @@ function handleSalaryCommand(id) {
   const basicSalary = employee.salary.basic;
   const stockSalary = employee.salary.stock;
   const bonusSalary = employee.salary.bonus;
-  const totalSalary = _calcTotalSalary(employee.salary);
+  const totalSalary = calcTotalSalary(employee.salary);
 
   console.log(`Total salary of employee with id ${id} is ${totalSalary}`);
   console.log(`Basic salary of employee with id ${id} is ${basicSalary}`);
   console.log(`Stock salary of employee with id ${id} is ${stockSalary}`);
   console.log(`Bonus salary of employee with id ${id} is ${bonusSalary}`);
 }
-function _calcTotalSalary(salary) {
+function calcTotalSalary(salary) {
   return salary.basic + salary.stock + salary.bonus;
 }
 
