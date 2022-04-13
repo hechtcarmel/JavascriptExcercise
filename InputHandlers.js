@@ -10,16 +10,17 @@ function handleUserInput(employeesData, equipmentData) {
         readlineSync.promptCL({
             help: handleHelpCommand,
             city: (city) => {
-                handleCityCommand(employeesData, city);
+                printTotalSalaryOfCity(employeesData, city);
             },
 
-            salary: (catalogNum) => handleSalaryCommand(employeesIdMap, catalogNum),
-            above: (aboveSalary) => handleAboveCommand(employeesData, aboveSalary),
-            equipment: (id) => handleEquipmentCommand(equipmentData, id),
+            salary: (catalogNum) => printSalaryOfEmployee(employeesIdMap, catalogNum),
+            above: (aboveSalary) =>
+                printEmployeesWhoEarnedAboveThreshold(employeesData, aboveSalary),
+            equipment: (id) => printEquipmentByCatalogNum(equipmentData, id),
             employeeEquipment: (id) =>
-                handleEmployeeEquipmentCommand(employeesIdMap, equipmentData, id),
+                printEmployeeEquipment(employeesIdMap, equipmentData, id),
             equipmentAttribute: (attribute) => {
-                handleEquipmentAttributeCommand(equipmentData, attribute);
+                printEquipmentsWithAttribute(equipmentData, attribute);
             },
             exit: handleExitCommand,
             _: handleCommandNotFound,
@@ -27,24 +28,24 @@ function handleUserInput(employeesData, equipmentData) {
     }
 }
 
-function handleEquipmentAttributeCommand(equipmentData, attribute) {
+function printEquipmentsWithAttribute(equipmentData, attribute) {
     attribute = attribute.toLowerCase();
     //check if attribute is valid
-    let equipment = equipmentData.find((equipment) => {
+    let equipmentsWtihAttribute = equipmentData.filter((equipment) => {
         return equipment.attributes
             .map((att) => att.toLowerCase())
             .includes(attribute);
     });
 
-    if (equipment) {
-        console.log(`Equipment with attribute ${attribute} is: `);
-        console.log(equipment);
+    if (equipmentsWtihAttribute) {
+        console.log(`Equipments with attribute ${attribute} are: `);
+        console.log(equipmentsWtihAttribute);
     } else {
         console.log("Sorry, there is no equipment with this attribute.");
     }
 }
 
-function handleEmployeeEquipmentCommand(employeesIdMap, equipmentData, id) {
+function printEmployeeEquipment(employeesIdMap, equipmentData, id) {
     id = parseInt(id);
 
     //check if id is valid
@@ -63,7 +64,7 @@ function handleEmployeeEquipmentCommand(employeesIdMap, equipmentData, id) {
     console.log(equipment);
 }
 
-function handleEquipmentCommand(equipmentData, catalogNum) {
+function printEquipmentByCatalogNum(equipmentData, catalogNum) {
     catalogNum = parseInt(catalogNum);
 
     //check if catalogNum is valid
@@ -98,7 +99,7 @@ function handleExitCommand() {
     process.exit(0);
 }
 
-function handleCityCommand(employeesData, city) {
+function printTotalSalaryOfCity(employeesData, city) {
     city = city.toLowerCase();
     let totalSalary = 0;
     employeesData.forEach((employee) => {
@@ -112,25 +113,25 @@ function handleCityCommand(employeesData, city) {
     console.log(`Total salary of all employees in ${city} is ${totalSalary}`);
 }
 
-function handleAboveCommand(employeesData, above) {
-    above = parseInt(above);
+function printEmployeesWhoEarnedAboveThreshold(employeesData, threshold) {
+    threshold = parseInt(threshold);
     //check if above is valid
-    if (!Number.isInteger(above)) {
+    if (!Number.isInteger(threshold)) {
         console.log("Invalid salary");
         return;
     }
 
-    console.log(`Employes who earned above ${above}: `);
+    console.log(`Employes who earned above ${threshold}: `);
     console.log(employeesData);
     employeesData.forEach((employee) => {
         const totalSalary = calcTotalSalary(employee.salary);
-        if (totalSalary > above) {
+        if (totalSalary > threshold) {
             console.log(employee.id + " - " + totalSalary);
         }
     });
 }
 
-function handleSalaryCommand(employeesIdMap, id) {
+function printSalaryOfEmployee(employeesIdMap, id) {
     id = parseInt(id);
 
     //check if id is valid
