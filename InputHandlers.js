@@ -18,9 +18,29 @@ function handleUserInput(employeesData, equipmentData) {
             equipment: (id) => handleEquipmentCommand(equipmentData, id),
             employeeEquipment: (id) =>
                 handleEmployeeEquipmentCommand(employeesIdMap, equipmentData, id),
+            equipmentAttribute: (attribute) => {
+                handleEquipmentAttributeCommand(equipmentData, attribute);
+            },
             exit: handleExitCommand,
             _: handleCommandNotFound,
         });
+    }
+}
+
+function handleEquipmentAttributeCommand(equipmentData, attribute) {
+    attribute = attribute.toLowerCase();
+    //check if attribute is valid
+    let equipment = equipmentData.find((equipment) => {
+        return equipment.attributes
+            .map((att) => att.toLowerCase())
+            .includes(attribute);
+    });
+
+    if (equipment) {
+        console.log(`Equipment with attribute ${attribute} is: `);
+        console.log(equipment);
+    } else {
+        console.log("Sorry, there is no equipment with this attribute.");
     }
 }
 
