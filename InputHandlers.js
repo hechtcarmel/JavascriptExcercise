@@ -1,31 +1,87 @@
-const readlineSync = require("readline-sync");
+const prompt = require("prompt-sync")({ sigint: true });
 
-function handleUserInput(employeesData, equipmentData) {
+async function handleUserInput(employeesData, equipmentData) {
     const employeesIdMap = new Map(
         employeesData.map((employee) => [employee.id, employee])
     );
 
     while (true) {
         console.log('\nPlease enter your command ( "help" to get help. Duh):\n');
-        readlineSync.promptCL({
-            help: handleHelpCommand,
-            city: (city) => {
-                printTotalSalaryOfCity(employeesData, city);
-            },
 
-            salary: (catalogNum) => printSalaryOfEmployee(employeesIdMap, catalogNum),
-            above: (aboveSalary) =>
-                printEmployeesWhoEarnedAboveThreshold(employeesData, aboveSalary),
-            equipment: (id) => printEquipmentByCatalogNum(equipmentData, id),
-            employeeEquipment: (id) =>
-                printEmployeeEquipment(employeesIdMap, equipmentData, id),
-            equipmentAttribute: (attribute) => {
-                printEquipmentsWithAttribute(equipmentData, attribute);
-            },
-            exit: handleExitCommand,
-            _: handleCommandNotFound,
-        });
+        const input = prompt("Command: ", "").split(" ");
+        const command = input[0];
+        const arg = input[1] ? input[1] : "";
+
+        switch (command) {
+            case "help":
+                handleHelpCommand();
+                break;
+            case "salary":
+                printSalaryOfEmployee(employeesIdMap, arg);
+                break;
+            case "city":
+                printTotalSalaryOfCity(employeesData, arg);
+                break;
+            case "equipment":
+                printEquipmentByCatalogNum(equipmentData, arg);
+                break;
+            case "allCitiesSalary":
+                await printTotalSalaryOfAllCities(employeesData);
+                break;
+            case "equipment":
+                printEquipmentByCatalogNum(equipmentData, arg);
+                break;
+            case "employeeEquipment":
+                printEmployeeEquipment(employeesIdMap, equipmentData, arg);
+                break;
+            case "equipmentAttribute":
+                console.log("Arg = ", arg);
+                printEquipmentsWithAttribute(equipmentData, arg);
+                break;
+            case "above":
+                printEmployeesWhoEarnedAboveThreshold(employeesData, arg);
+                break;
+
+            case "exit":
+                handleExitCommand();
+                break;
+            default:
+                handleCommandNotFound();
+                break;
+        }
     }
+}
+
+async function printTotalSalaryOfAllCities(employeesData) {
+    let cities = new Set(employeesData.map((employee) => employee.city));
+    let promises = [];
+    cities.forEach((city) => {
+        promises.push(getCitySalary(employeesData, city));
+    });
+
+    const results = await Promise.all(promises);
+    let allCitiesSalary = 0;
+
+    console.log("Salary of each city: ");
+    results.forEach(({ city, totalSalary }) => {
+        console.log(`${city}: ${totalSalary}`);
+        allCitiesSalary += totalSalary;
+    });
+
+    console.log(`Total salary from all cities: ${allCitiesSalary}`);
+}
+
+async function getCitySalary(employeesData, city) {
+    city = city.toLowerCase();
+    let totalSalary = 0;
+    employeesData.forEach((employee) => {
+        if (employee.city.toLowerCase() === city) {
+            const currTotalSalary = calcTotalSalary(employee.salary);
+
+            totalSalary += currTotalSalary;
+        }
+    });
+    return { city, totalSalary };
 }
 
 function printEquipmentsWithAttribute(equipmentData, attribute) {

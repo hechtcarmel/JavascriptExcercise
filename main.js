@@ -2,10 +2,12 @@ const fs = require("fs");
 const DataGenerator = require("./DataGenerator");
 const InputHandlers = require("./InputHandlers");
 
-function main() {
+main();
+
+async function main() {
     DataGenerator.generateData();
     const { employeesData, equipmentData } = readData();
-    InputHandlers.handleUserInput(employeesData, equipmentData);
+    await InputHandlers.handleUserInput(employeesData, equipmentData);
 }
 
 function readData() {
@@ -21,8 +23,5 @@ function readData() {
     });
     const equipmentData = JSON.parse(equipmentRawData).equipment;
 
-    //console.log(employeesData.employees);
     return { employeesData, equipmentData };
 }
-
-main();

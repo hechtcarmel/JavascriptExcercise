@@ -2,442 +2,442 @@
   "equipment": [
     {
       "catalogNumber": 0,
-      "type": "Armor",
+      "type": "Weapon",
       "attributes": [
         "FireResistant",
-        "ElectricResistant",
-        "New"
+        "FireResistant",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 1,
-      "type": "Glasses",
+      "type": "Gloves",
       "attributes": [
-        "FrostResistant",
-        "FireResistant",
-        "Used"
+        "Sold",
+        "New",
+        "Broken"
       ]
     },
     {
       "catalogNumber": 2,
-      "type": "Mask",
+      "type": "Gloves",
       "attributes": [
-        "PoisonResistant",
+        "FrostResistant",
         "Used",
-        "PoisonResistant"
+        "Sold"
       ]
     },
     {
       "catalogNumber": 3,
-      "type": "Mask",
+      "type": "Shovel",
       "attributes": [
-        "Used",
-        "FireResistant",
-        "Broken"
+        "New",
+        "New",
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 4,
       "type": "Weapon",
       "attributes": [
-        "ElectricResistant",
-        "FireResistant",
+        "Broken",
+        "AcidResistant",
         "Broken"
       ]
     },
     {
       "catalogNumber": 5,
-      "type": "Armor",
+      "type": "Shoes",
       "attributes": [
+        "Sold",
         "ElectricResistant",
-        "Broken",
-        "FireResistant"
+        "ElectricResistant"
       ]
     },
     {
       "catalogNumber": 6,
-      "type": "Gloves",
+      "type": "Weapon",
       "attributes": [
-        "Broken",
-        "Used",
-        "Sold"
-      ]
-    },
-    {
-      "catalogNumber": 7,
-      "type": "Shoes",
-      "attributes": [
-        "Used",
-        "ElectricResistant",
-        "PoisonResistant"
-      ]
-    },
-    {
-      "catalogNumber": 8,
-      "type": "Armor",
-      "attributes": [
-        "Used",
-        "Broken",
-        "Broken"
-      ]
-    },
-    {
-      "catalogNumber": 9,
-      "type": "Shoes",
-      "attributes": [
-        "Sold",
         "FireResistant",
+        "Broken",
         "FireResistant"
       ]
     },
     {
-      "catalogNumber": 10,
+      "catalogNumber": 7,
+      "type": "Armor",
+      "attributes": [
+        "PoisonResistant",
+        "PoisonResistant",
+        "WaterResistant"
+      ]
+    },
+    {
+      "catalogNumber": 8,
       "type": "Weapon",
       "attributes": [
+        "WaterResistant",
+        "PoisonResistant",
+        "New"
+      ]
+    },
+    {
+      "catalogNumber": 9,
+      "type": "Armor",
+      "attributes": [
+        "AcidResistant",
+        "AcidResistant",
+        "Used"
+      ]
+    },
+    {
+      "catalogNumber": 10,
+      "type": "Shoes",
+      "attributes": [
         "Broken",
-        "New",
+        "Used",
         "Broken"
       ]
     },
     {
       "catalogNumber": 11,
-      "type": "Mask",
+      "type": "Shovel",
       "attributes": [
-        "Used",
-        "Sold",
-        "Used"
-      ]
-    },
-    {
-      "catalogNumber": 12,
-      "type": "Mask",
-      "attributes": [
-        "Sold",
-        "Broken",
+        "PoisonResistant",
+        "New",
         "AcidResistant"
       ]
     },
     {
-      "catalogNumber": 13,
-      "type": "Gloves",
+      "catalogNumber": 12,
+      "type": "Armor",
       "attributes": [
-        "New",
         "ElectricResistant",
-        "PoisonResistant"
+        "AcidResistant",
+        "Broken"
+      ]
+    },
+    {
+      "catalogNumber": 13,
+      "type": "Calculator",
+      "attributes": [
+        "PoisonResistant",
+        "AcidResistant",
+        "New"
       ]
     },
     {
       "catalogNumber": 14,
-      "type": "Mask",
+      "type": "Weapon",
       "attributes": [
-        "Used",
-        "Sold",
-        "WaterResistant"
+        "FireResistant",
+        "ElectricResistant",
+        "ElectricResistant"
       ]
     },
     {
       "catalogNumber": 15,
       "type": "Shovel",
       "attributes": [
-        "New",
-        "ElectricResistant",
-        "Broken"
+        "PoisonResistant",
+        "PoisonResistant",
+        "WaterResistant"
       ]
     },
     {
       "catalogNumber": 16,
       "type": "Weapon",
       "attributes": [
-        "Used",
         "FireResistant",
-        "PoisonResistant"
+        "New",
+        "New"
       ]
     },
     {
       "catalogNumber": 17,
-      "type": "Calculator",
+      "type": "Glasses",
       "attributes": [
-        "Broken",
+        "Used",
         "ElectricResistant",
-        "Sold"
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 18,
-      "type": "Glasses",
+      "type": "Shoes",
       "attributes": [
-        "Sold",
-        "Broken",
-        "FireResistant"
+        "Used",
+        "New",
+        "PoisonResistant"
       ]
     },
     {
       "catalogNumber": 19,
       "type": "Glasses",
       "attributes": [
-        "New",
-        "Used",
-        "FrostResistant"
+        "PoisonResistant",
+        "Sold",
+        "WaterResistant"
       ]
     },
     {
       "catalogNumber": 20,
       "type": "Armor",
       "attributes": [
-        "New",
-        "FrostResistant",
-        "AcidResistant"
+        "ElectricResistant",
+        "Used",
+        "FireResistant"
       ]
     },
     {
       "catalogNumber": 21,
-      "type": "Gloves",
-      "attributes": [
-        "Sold",
-        "PoisonResistant",
-        "AcidResistant"
-      ]
-    },
-    {
-      "catalogNumber": 22,
-      "type": "Armor",
-      "attributes": [
-        "FireResistant",
-        "PoisonResistant",
-        "WaterResistant"
-      ]
-    },
-    {
-      "catalogNumber": 23,
       "type": "Weapon",
       "attributes": [
-        "Sold",
-        "FrostResistant",
-        "ElectricResistant"
-      ]
-    },
-    {
-      "catalogNumber": 24,
-      "type": "Armor",
-      "attributes": [
-        "Sold",
         "New",
-        "AcidResistant"
-      ]
-    },
-    {
-      "catalogNumber": 25,
-      "type": "Shoes",
-      "attributes": [
         "WaterResistant",
-        "ElectricResistant",
         "Sold"
       ]
     },
     {
-      "catalogNumber": 26,
-      "type": "Shovel",
-      "attributes": [
-        "WaterResistant",
-        "FrostResistant",
-        "WaterResistant"
-      ]
-    },
-    {
-      "catalogNumber": 27,
+      "catalogNumber": 22,
       "type": "Calculator",
       "attributes": [
-        "WaterResistant",
-        "AcidResistant",
-        "FireResistant"
-      ]
-    },
-    {
-      "catalogNumber": 28,
-      "type": "Gloves",
-      "attributes": [
-        "ElectricResistant",
         "Sold",
-        "Broken"
-      ]
-    },
-    {
-      "catalogNumber": 29,
-      "type": "Shovel",
-      "attributes": [
-        "PoisonResistant",
-        "PoisonResistant",
-        "FireResistant"
-      ]
-    },
-    {
-      "catalogNumber": 30,
-      "type": "Shovel",
-      "attributes": [
-        "ElectricResistant",
-        "ElectricResistant",
-        "PoisonResistant"
-      ]
-    },
-    {
-      "catalogNumber": 31,
-      "type": "Shovel",
-      "attributes": [
-        "New",
-        "FrostResistant",
-        "ElectricResistant"
-      ]
-    },
-    {
-      "catalogNumber": 32,
-      "type": "Glasses",
-      "attributes": [
-        "New",
-        "Sold",
+        "Broken",
         "FrostResistant"
       ]
     },
     {
-      "catalogNumber": 33,
+      "catalogNumber": 23,
       "type": "Glasses",
       "attributes": [
         "Sold",
+        "Used",
+        "Broken"
+      ]
+    },
+    {
+      "catalogNumber": 24,
+      "type": "Calculator",
+      "attributes": [
+        "PoisonResistant",
+        "Used",
+        "New"
+      ]
+    },
+    {
+      "catalogNumber": 25,
+      "type": "Weapon",
+      "attributes": [
+        "PoisonResistant",
+        "Sold",
+        "FireResistant"
+      ]
+    },
+    {
+      "catalogNumber": 26,
+      "type": "Weapon",
+      "attributes": [
+        "Used",
+        "PoisonResistant",
+        "ElectricResistant"
+      ]
+    },
+    {
+      "catalogNumber": 27,
+      "type": "Gloves",
+      "attributes": [
+        "New",
         "Broken",
+        "FrostResistant"
+      ]
+    },
+    {
+      "catalogNumber": 28,
+      "type": "Glasses",
+      "attributes": [
+        "New",
+        "AcidResistant",
+        "ElectricResistant"
+      ]
+    },
+    {
+      "catalogNumber": 29,
+      "type": "Glasses",
+      "attributes": [
+        "FireResistant",
+        "Used",
+        "New"
+      ]
+    },
+    {
+      "catalogNumber": 30,
+      "type": "Shoes",
+      "attributes": [
+        "PoisonResistant",
+        "Used",
+        "Broken"
+      ]
+    },
+    {
+      "catalogNumber": 31,
+      "type": "Gloves",
+      "attributes": [
+        "Sold",
+        "FrostResistant",
         "AcidResistant"
+      ]
+    },
+    {
+      "catalogNumber": 32,
+      "type": "Mask",
+      "attributes": [
+        "Used",
+        "ElectricResistant",
+        "FireResistant"
+      ]
+    },
+    {
+      "catalogNumber": 33,
+      "type": "Gloves",
+      "attributes": [
+        "Sold",
+        "Broken",
+        "Sold"
       ]
     },
     {
       "catalogNumber": 34,
       "type": "Calculator",
       "attributes": [
-        "Used",
         "Broken",
-        "Used"
+        "Used",
+        "Sold"
       ]
     },
     {
       "catalogNumber": 35,
-      "type": "Calculator",
+      "type": "Glasses",
       "attributes": [
-        "New",
-        "FireResistant",
-        "AcidResistant"
+        "Sold",
+        "Broken",
+        "Used"
       ]
     },
     {
       "catalogNumber": 36,
       "type": "Shovel",
       "attributes": [
-        "New",
         "Broken",
-        "Used"
+        "Sold",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 37,
-      "type": "Calculator",
+      "type": "Shovel",
       "attributes": [
-        "FrostResistant",
-        "WaterResistant",
+        "FireResistant",
+        "PoisonResistant",
         "Sold"
       ]
     },
     {
       "catalogNumber": 38,
-      "type": "Mask",
+      "type": "Shovel",
       "attributes": [
-        "FrostResistant",
-        "AcidResistant",
-        "ElectricResistant"
+        "Used",
+        "PoisonResistant",
+        "FireResistant"
       ]
     },
     {
       "catalogNumber": 39,
-      "type": "Calculator",
+      "type": "Weapon",
       "attributes": [
-        "Sold",
-        "AcidResistant",
-        "Sold"
+        "Used",
+        "FrostResistant",
+        "ElectricResistant"
       ]
     },
     {
       "catalogNumber": 40,
-      "type": "Shoes",
+      "type": "Glasses",
       "attributes": [
-        "FrostResistant",
-        "Sold",
+        "Broken",
+        "ElectricResistant",
         "Used"
       ]
     },
     {
       "catalogNumber": 41,
-      "type": "Armor",
+      "type": "Shoes",
       "attributes": [
-        "FrostResistant",
-        "New",
-        "ElectricResistant"
+        "Sold",
+        "Sold",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 42,
-      "type": "Shovel",
+      "type": "Mask",
       "attributes": [
-        "Broken",
-        "WaterResistant",
-        "WaterResistant"
+        "FireResistant",
+        "Sold",
+        "Used"
       ]
     },
     {
       "catalogNumber": 43,
       "type": "Shoes",
       "attributes": [
-        "Used",
-        "Broken",
-        "FireResistant"
+        "New",
+        "PoisonResistant",
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 44,
-      "type": "Shoes",
+      "type": "Shovel",
       "attributes": [
-        "ElectricResistant",
-        "AcidResistant",
-        "Broken"
+        "WaterResistant",
+        "PoisonResistant",
+        "Sold"
       ]
     },
     {
       "catalogNumber": 45,
-      "type": "Gloves",
+      "type": "Glasses",
       "attributes": [
-        "Broken",
-        "PoisonResistant",
-        "FireResistant"
+        "Sold",
+        "Sold",
+        "Sold"
       ]
     },
     {
       "catalogNumber": 46,
-      "type": "Gloves",
+      "type": "Armor",
       "attributes": [
-        "AcidResistant",
-        "FireResistant",
-        "New"
+        "New",
+        "Used",
+        "Broken"
       ]
     },
     {
       "catalogNumber": 47,
-      "type": "Mask",
+      "type": "Calculator",
       "attributes": [
-        "FrostResistant",
         "Sold",
-        "WaterResistant"
+        "FireResistant",
+        "Sold"
       ]
     },
     {
       "catalogNumber": 48,
       "type": "Gloves",
       "attributes": [
-        "FrostResistant",
-        "FrostResistant",
+        "WaterResistant",
+        "WaterResistant",
         "Broken"
       ]
     },
@@ -445,35 +445,35 @@
       "catalogNumber": 49,
       "type": "Shoes",
       "attributes": [
-        "Sold",
+        "Used",
         "PoisonResistant",
-        "WaterResistant"
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 50,
-      "type": "Shovel",
+      "type": "Calculator",
       "attributes": [
-        "ElectricResistant",
-        "ElectricResistant",
-        "Sold"
+        "New",
+        "PoisonResistant",
+        "ElectricResistant"
       ]
     },
     {
       "catalogNumber": 51,
-      "type": "Glasses",
+      "type": "Gloves",
       "attributes": [
-        "Sold",
-        "Broken",
-        "Broken"
+        "ElectricResistant",
+        "ElectricResistant",
+        "FireResistant"
       ]
     },
     {
       "catalogNumber": 52,
-      "type": "Mask",
+      "type": "Glasses",
       "attributes": [
+        "New",
         "PoisonResistant",
-        "Sold",
         "ElectricResistant"
       ]
     },
@@ -481,131 +481,104 @@
       "catalogNumber": 53,
       "type": "Glasses",
       "attributes": [
-        "Sold",
-        "FireResistant",
-        "AcidResistant"
+        "WaterResistant",
+        "FrostResistant",
+        "ElectricResistant"
       ]
     },
     {
       "catalogNumber": 54,
-      "type": "Shovel",
+      "type": "Mask",
       "attributes": [
-        "New",
-        "New",
-        "Used"
+        "ElectricResistant",
+        "AcidResistant",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 55,
-      "type": "Calculator",
+      "type": "Glasses",
       "attributes": [
-        "Sold",
-        "New",
+        "ElectricResistant",
+        "AcidResistant",
         "PoisonResistant"
       ]
     },
     {
       "catalogNumber": 56,
-      "type": "Weapon",
+      "type": "Glasses",
       "attributes": [
-        "Broken",
-        "New",
-        "Broken"
+        "FrostResistant",
+        "ElectricResistant",
+        "ElectricResistant"
       ]
     },
     {
       "catalogNumber": 57,
-      "type": "Calculator",
+      "type": "Glasses",
       "attributes": [
-        "Broken",
-        "New",
-        "PoisonResistant"
+        "AcidResistant",
+        "WaterResistant",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 58,
-      "type": "Glasses",
+      "type": "Calculator",
       "attributes": [
-        "AcidResistant",
         "Broken",
-        "Broken"
+        "ElectricResistant",
+        "PoisonResistant"
       ]
     },
     {
       "catalogNumber": 59,
-      "type": "Mask",
+      "type": "Glasses",
       "attributes": [
-        "WaterResistant",
-        "FrostResistant",
-        "Sold"
+        "Sold",
+        "PoisonResistant",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 60,
-      "type": "Shoes",
+      "type": "Shovel",
       "attributes": [
-        "ElectricResistant",
         "PoisonResistant",
-        "WaterResistant"
+        "PoisonResistant",
+        "Broken"
       ]
     },
     {
       "catalogNumber": 61,
-      "type": "Calculator",
+      "type": "Shoes",
       "attributes": [
         "FireResistant",
         "PoisonResistant",
-        "PoisonResistant"
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 62,
       "type": "Gloves",
       "attributes": [
-        "PoisonResistant",
-        "WaterResistant",
-        "FrostResistant"
+        "AcidResistant",
+        "ElectricResistant",
+        "FireResistant"
       ]
     },
     {
       "catalogNumber": 63,
-      "type": "Glasses",
+      "type": "Mask",
       "attributes": [
-        "Sold",
-        "New",
-        "AcidResistant"
+        "ElectricResistant",
+        "ElectricResistant",
+        "Used"
       ]
     },
     {
       "catalogNumber": 64,
-      "type": "Glasses",
-      "attributes": [
-        "Used",
-        "New",
-        "New"
-      ]
-    },
-    {
-      "catalogNumber": 65,
-      "type": "Shoes",
-      "attributes": [
-        "Broken",
-        "FrostResistant",
-        "WaterResistant"
-      ]
-    },
-    {
-      "catalogNumber": 66,
-      "type": "Glasses",
-      "attributes": [
-        "AcidResistant",
-        "FireResistant",
-        "WaterResistant"
-      ]
-    },
-    {
-      "catalogNumber": 67,
-      "type": "Shoes",
+      "type": "Shovel",
       "attributes": [
         "ElectricResistant",
         "PoisonResistant",
@@ -613,29 +586,56 @@
       ]
     },
     {
-      "catalogNumber": 68,
-      "type": "Mask",
+      "catalogNumber": 65,
+      "type": "Weapon",
       "attributes": [
         "AcidResistant",
+        "Broken",
+        "Used"
+      ]
+    },
+    {
+      "catalogNumber": 66,
+      "type": "Armor",
+      "attributes": [
+        "Sold",
         "FireResistant",
         "Broken"
       ]
     },
     {
-      "catalogNumber": 69,
+      "catalogNumber": 67,
       "type": "Shoes",
       "attributes": [
-        "PoisonResistant",
         "Used",
-        "Sold"
+        "ElectricResistant",
+        "Broken"
+      ]
+    },
+    {
+      "catalogNumber": 68,
+      "type": "Glasses",
+      "attributes": [
+        "Sold",
+        "PoisonResistant",
+        "PoisonResistant"
+      ]
+    },
+    {
+      "catalogNumber": 69,
+      "type": "Calculator",
+      "attributes": [
+        "Used",
+        "FireResistant",
+        "Broken"
       ]
     },
     {
       "catalogNumber": 70,
-      "type": "Glasses",
+      "type": "Mask",
       "attributes": [
-        "PoisonResistant",
-        "FireResistant",
+        "New",
+        "Broken",
         "FireResistant"
       ]
     },
@@ -643,117 +643,117 @@
       "catalogNumber": 71,
       "type": "Weapon",
       "attributes": [
-        "Broken",
-        "AcidResistant",
-        "PoisonResistant"
+        "FrostResistant",
+        "FireResistant",
+        "Sold"
       ]
     },
     {
       "catalogNumber": 72,
-      "type": "Shovel",
+      "type": "Shoes",
       "attributes": [
-        "AcidResistant",
-        "FireResistant",
-        "AcidResistant"
+        "New",
+        "New",
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 73,
-      "type": "Gloves",
+      "type": "Shoes",
       "attributes": [
-        "Sold",
-        "Used",
-        "New"
+        "New",
+        "AcidResistant",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 74,
-      "type": "Gloves",
+      "type": "Weapon",
       "attributes": [
-        "FireResistant",
-        "AcidResistant",
+        "FrostResistant",
+        "Used",
         "AcidResistant"
       ]
     },
     {
       "catalogNumber": 75,
-      "type": "Glasses",
+      "type": "Mask",
       "attributes": [
-        "AcidResistant",
-        "Used",
-        "FrostResistant"
+        "FireResistant",
+        "ElectricResistant",
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 76,
       "type": "Shovel",
       "attributes": [
-        "FrostResistant",
-        "WaterResistant",
+        "Sold",
+        "PoisonResistant",
         "FireResistant"
       ]
     },
     {
       "catalogNumber": 77,
-      "type": "Shoes",
+      "type": "Weapon",
       "attributes": [
-        "Broken",
-        "New",
-        "Sold"
+        "Sold",
+        "Sold",
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 78,
-      "type": "Shoes",
+      "type": "Glasses",
       "attributes": [
-        "ElectricResistant",
-        "PoisonResistant",
-        "PoisonResistant"
+        "Used",
+        "New",
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 79,
-      "type": "Armor",
+      "type": "Shovel",
       "attributes": [
-        "FireResistant",
-        "Broken",
+        "AcidResistant",
+        "FrostResistant",
         "FireResistant"
       ]
     },
     {
       "catalogNumber": 80,
-      "type": "Mask",
+      "type": "Armor",
       "attributes": [
         "Broken",
         "Sold",
-        "Used"
+        "FireResistant"
       ]
     },
     {
       "catalogNumber": 81,
-      "type": "Glasses",
+      "type": "Shovel",
       "attributes": [
-        "Used",
-        "Used",
-        "FireResistant"
+        "WaterResistant",
+        "New",
+        "Broken"
       ]
     },
     {
       "catalogNumber": 82,
       "type": "Shoes",
       "attributes": [
-        "Broken",
+        "FrostResistant",
         "AcidResistant",
-        "PoisonResistant"
+        "WaterResistant"
       ]
     },
     {
       "catalogNumber": 83,
       "type": "Mask",
       "attributes": [
-        "PoisonResistant",
-        "PoisonResistant",
-        "ElectricResistant"
+        "ElectricResistant",
+        "AcidResistant",
+        "Broken"
       ]
     },
     {
@@ -761,143 +761,143 @@
       "type": "Glasses",
       "attributes": [
         "FrostResistant",
-        "New",
-        "AcidResistant"
-      ]
-    },
-    {
-      "catalogNumber": 85,
-      "type": "Shoes",
-      "attributes": [
-        "ElectricResistant",
-        "New",
-        "FireResistant"
-      ]
-    },
-    {
-      "catalogNumber": 86,
-      "type": "Weapon",
-      "attributes": [
-        "WaterResistant",
-        "PoisonResistant",
+        "AcidResistant",
         "New"
       ]
     },
     {
-      "catalogNumber": 87,
-      "type": "Armor",
+      "catalogNumber": 85,
+      "type": "Shovel",
       "attributes": [
+        "PoisonResistant",
+        "AcidResistant",
+        "FrostResistant"
+      ]
+    },
+    {
+      "catalogNumber": 86,
+      "type": "Shoes",
+      "attributes": [
+        "PoisonResistant",
         "Sold",
-        "FrostResistant",
+        "ElectricResistant"
+      ]
+    },
+    {
+      "catalogNumber": 87,
+      "type": "Calculator",
+      "attributes": [
+        "ElectricResistant",
+        "Used",
         "AcidResistant"
       ]
     },
     {
       "catalogNumber": 88,
-      "type": "Mask",
+      "type": "Shoes",
       "attributes": [
-        "WaterResistant",
+        "AcidResistant",
         "ElectricResistant",
-        "WaterResistant"
+        "AcidResistant"
       ]
     },
     {
       "catalogNumber": 89,
-      "type": "Weapon",
+      "type": "Shovel",
       "attributes": [
-        "FrostResistant",
+        "FireResistant",
         "PoisonResistant",
-        "FireResistant"
+        "New"
       ]
     },
     {
       "catalogNumber": 90,
-      "type": "Weapon",
+      "type": "Shoes",
       "attributes": [
-        "Broken",
-        "PoisonResistant",
-        "Sold"
+        "ElectricResistant",
+        "ElectricResistant",
+        "Used"
       ]
     },
     {
       "catalogNumber": 91,
-      "type": "Glasses",
+      "type": "Calculator",
       "attributes": [
-        "WaterResistant",
-        "ElectricResistant",
+        "Sold",
+        "AcidResistant",
         "Broken"
       ]
     },
     {
       "catalogNumber": 92,
-      "type": "Shoes",
-      "attributes": [
-        "FrostResistant",
-        "WaterResistant",
-        "New"
-      ]
-    },
-    {
-      "catalogNumber": 93,
-      "type": "Gloves",
-      "attributes": [
-        "FrostResistant",
-        "Broken",
-        "PoisonResistant"
-      ]
-    },
-    {
-      "catalogNumber": 94,
       "type": "Weapon",
       "attributes": [
-        "Used",
-        "Used",
-        "Used"
-      ]
-    },
-    {
-      "catalogNumber": 95,
-      "type": "Calculator",
-      "attributes": [
-        "Sold",
-        "FrostResistant",
+        "FireResistant",
+        "PoisonResistant",
         "FrostResistant"
       ]
     },
     {
-      "catalogNumber": 96,
-      "type": "Weapon",
+      "catalogNumber": 93,
+      "type": "Armor",
       "attributes": [
-        "ElectricResistant",
         "FireResistant",
+        "FrostResistant",
+        "Broken"
+      ]
+    },
+    {
+      "catalogNumber": 94,
+      "type": "Mask",
+      "attributes": [
+        "Broken",
+        "Used",
         "Sold"
       ]
     },
     {
-      "catalogNumber": 97,
-      "type": "Armor",
+      "catalogNumber": 95,
+      "type": "Weapon",
       "attributes": [
-        "New",
-        "Sold",
-        "PoisonResistant"
+        "AcidResistant",
+        "AcidResistant",
+        "Used"
+      ]
+    },
+    {
+      "catalogNumber": 96,
+      "type": "Gloves",
+      "attributes": [
+        "FireResistant",
+        "FireResistant",
+        "Used"
+      ]
+    },
+    {
+      "catalogNumber": 97,
+      "type": "Shoes",
+      "attributes": [
+        "PoisonResistant",
+        "FrostResistant",
+        "New"
       ]
     },
     {
       "catalogNumber": 98,
-      "type": "Shoes",
+      "type": "Weapon",
       "attributes": [
-        "FrostResistant",
-        "AcidResistant",
-        "ElectricResistant"
+        "Broken",
+        "FireResistant",
+        "FrostResistant"
       ]
     },
     {
       "catalogNumber": 99,
       "type": "Calculator",
       "attributes": [
-        "Sold",
-        "WaterResistant",
-        "Broken"
+        "New",
+        "Broken",
+        "AcidResistant"
       ]
     }
   ]
