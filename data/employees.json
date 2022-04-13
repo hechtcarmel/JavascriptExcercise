@@ -4,1501 +4,2001 @@
       "id": 0,
       "firstName": "FirstName  0",
       "lastName": "LastName  0",
-      "yearOfBirth": 1952.360438808031,
+      "yearOfBirth": 1968.485186508584,
       "gender": "Female",
-      "age": 24,
+      "age": 32,
       "salary": {
-        "basic": 9718,
-        "bonus": 3232,
-        "stock": 81575
+        "basic": 88924,
+        "bonus": 54763,
+        "stock": 18250
       },
       "role": "Role #0",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        9,
+        54,
+        33
+      ]
     },
     {
       "id": 1,
       "firstName": "FirstName  1",
       "lastName": "LastName  1",
-      "yearOfBirth": 1983.9130667315712,
+      "yearOfBirth": 1974.479358640066,
       "gender": "Male",
-      "age": 0,
+      "age": 51,
       "salary": {
-        "basic": 585,
-        "bonus": 67044,
-        "stock": 84177
+        "basic": 17978,
+        "bonus": 57533,
+        "stock": 7639
       },
       "role": "Role #1",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        46,
+        16,
+        10
+      ]
     },
     {
       "id": 2,
       "firstName": "FirstName  2",
       "lastName": "LastName  2",
-      "yearOfBirth": 1955.7781182529366,
+      "yearOfBirth": 1988.588996355625,
       "gender": "Female",
-      "age": 63,
+      "age": 69,
       "salary": {
-        "basic": 5746,
-        "bonus": 31990,
-        "stock": 6838
+        "basic": 3970,
+        "bonus": 36000,
+        "stock": 15936
       },
       "role": "Role #2",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        30,
+        89,
+        92
+      ]
     },
     {
       "id": 3,
       "firstName": "FirstName  3",
       "lastName": "LastName  3",
-      "yearOfBirth": 1972.5689065621855,
+      "yearOfBirth": 1990.3575165725345,
       "gender": "Male",
-      "age": 50,
+      "age": 15,
       "salary": {
-        "basic": 18908,
-        "bonus": 86111,
-        "stock": 99080
+        "basic": 85850,
+        "bonus": 47452,
+        "stock": 25825
       },
       "role": "Role #3",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        78,
+        5,
+        36
+      ]
     },
     {
       "id": 4,
       "firstName": "FirstName  4",
       "lastName": "LastName  4",
-      "yearOfBirth": 1968.0010705718532,
+      "yearOfBirth": 1966.3450563508397,
       "gender": "Female",
-      "age": 66,
+      "age": 82,
       "salary": {
-        "basic": 42858,
-        "bonus": 34343,
-        "stock": 51630
+        "basic": 20693,
+        "bonus": 91852,
+        "stock": 67629
       },
       "role": "Role #4",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        74,
+        62,
+        32
+      ]
     },
     {
       "id": 5,
       "firstName": "FirstName  5",
       "lastName": "LastName  5",
-      "yearOfBirth": 1960.1482562766407,
+      "yearOfBirth": 1959.7552089012713,
       "gender": "Male",
-      "age": 83,
+      "age": 43,
       "salary": {
-        "basic": 89457,
-        "bonus": 1697,
-        "stock": 28782
+        "basic": 15285,
+        "bonus": 99651,
+        "stock": 62611
       },
       "role": "Role #5",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        62,
+        33,
+        7
+      ]
     },
     {
       "id": 6,
       "firstName": "FirstName  6",
       "lastName": "LastName  6",
-      "yearOfBirth": 1975.2140033276241,
+      "yearOfBirth": 1970.597953864961,
       "gender": "Female",
-      "age": 97,
+      "age": 4,
       "salary": {
-        "basic": 85039,
-        "bonus": 65431,
-        "stock": 25688
+        "basic": 65294,
+        "bonus": 39215,
+        "stock": 86258
       },
       "role": "Role #6",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        21,
+        15,
+        13
+      ]
     },
     {
       "id": 7,
       "firstName": "FirstName  7",
       "lastName": "LastName  7",
-      "yearOfBirth": 1962.2859468834058,
+      "yearOfBirth": 1995.2550671766885,
       "gender": "Male",
-      "age": 68,
+      "age": 24,
       "salary": {
-        "basic": 81969,
-        "bonus": 61985,
-        "stock": 2232
+        "basic": 6283,
+        "bonus": 88203,
+        "stock": 26433
       },
       "role": "Role #7",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        97,
+        9,
+        40
+      ]
     },
     {
       "id": 8,
       "firstName": "FirstName  8",
       "lastName": "LastName  8",
-      "yearOfBirth": 1967.5308332512889,
+      "yearOfBirth": 1954.3290537851215,
       "gender": "Female",
-      "age": 95,
+      "age": 28,
       "salary": {
-        "basic": 1507,
-        "bonus": 13225,
-        "stock": 36594
+        "basic": 75084,
+        "bonus": 33297,
+        "stock": 63115
       },
       "role": "Role #8",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        99,
+        45,
+        45
+      ]
     },
     {
       "id": 9,
       "firstName": "FirstName  9",
       "lastName": "LastName  9",
-      "yearOfBirth": 1980.6233994836962,
+      "yearOfBirth": 1989.0826954673187,
       "gender": "Male",
-      "age": 59,
+      "age": 56,
       "salary": {
-        "basic": 52214,
-        "bonus": 53200,
-        "stock": 39277
+        "basic": 48029,
+        "bonus": 6780,
+        "stock": 17024
       },
       "role": "Role #9",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        29,
+        55,
+        3
+      ]
     },
     {
       "id": 10,
       "firstName": "FirstName  10",
       "lastName": "LastName  10",
-      "yearOfBirth": 1951.4510984490523,
+      "yearOfBirth": 1972.7116007015456,
       "gender": "Female",
-      "age": 7,
+      "age": 60,
       "salary": {
-        "basic": 26629,
-        "bonus": 44508,
-        "stock": 67223
+        "basic": 3448,
+        "bonus": 24692,
+        "stock": 56034
       },
       "role": "Role #10",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        13,
+        95,
+        53
+      ]
     },
     {
       "id": 11,
       "firstName": "FirstName  11",
       "lastName": "LastName  11",
-      "yearOfBirth": 1964.70307462456,
+      "yearOfBirth": 1968.7934685611956,
       "gender": "Male",
-      "age": 74,
+      "age": 58,
       "salary": {
-        "basic": 49553,
-        "bonus": 70642,
-        "stock": 37691
+        "basic": 63298,
+        "bonus": 35229,
+        "stock": 35269
       },
       "role": "Role #11",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        15,
+        41,
+        86
+      ]
     },
     {
       "id": 12,
       "firstName": "FirstName  12",
       "lastName": "LastName  12",
-      "yearOfBirth": 1996.649177244154,
+      "yearOfBirth": 1950.2688229340583,
       "gender": "Female",
-      "age": 67,
+      "age": 63,
       "salary": {
-        "basic": 93471,
-        "bonus": 82080,
-        "stock": 99477
+        "basic": 57069,
+        "bonus": 77329,
+        "stock": 35950
       },
       "role": "Role #12",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        84,
+        56,
+        52
+      ]
     },
     {
       "id": 13,
       "firstName": "FirstName  13",
       "lastName": "LastName  13",
-      "yearOfBirth": 1975.4936756937248,
+      "yearOfBirth": 1967.915776300736,
       "gender": "Male",
-      "age": 84,
+      "age": 50,
       "salary": {
-        "basic": 3794,
-        "bonus": 42099,
-        "stock": 88539
+        "basic": 13958,
+        "bonus": 84392,
+        "stock": 83733
       },
       "role": "Role #13",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        1,
+        0,
+        30
+      ]
     },
     {
       "id": 14,
       "firstName": "FirstName  14",
       "lastName": "LastName  14",
-      "yearOfBirth": 1979.546434389366,
+      "yearOfBirth": 1990.25093168651,
       "gender": "Female",
-      "age": 32,
+      "age": 48,
       "salary": {
-        "basic": 88105,
-        "bonus": 71628,
-        "stock": 33328
+        "basic": 87967,
+        "bonus": 39529,
+        "stock": 26728
       },
       "role": "Role #14",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        97,
+        41,
+        70
+      ]
     },
     {
       "id": 15,
       "firstName": "FirstName  15",
       "lastName": "LastName  15",
-      "yearOfBirth": 1994.005519227564,
+      "yearOfBirth": 1970.3350501426855,
       "gender": "Male",
-      "age": 95,
+      "age": 4,
       "salary": {
-        "basic": 13874,
-        "bonus": 12190,
-        "stock": 44523
+        "basic": 38903,
+        "bonus": 99538,
+        "stock": 48408
       },
       "role": "Role #15",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        2,
+        84,
+        35
+      ]
     },
     {
       "id": 16,
       "firstName": "FirstName  16",
       "lastName": "LastName  16",
-      "yearOfBirth": 1982.9100357064633,
+      "yearOfBirth": 1968.9149910093859,
       "gender": "Female",
-      "age": 83,
+      "age": 67,
       "salary": {
-        "basic": 15161,
-        "bonus": 87237,
-        "stock": 27494
+        "basic": 64210,
+        "bonus": 58059,
+        "stock": 3703
       },
       "role": "Role #16",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        32,
+        93,
+        35
+      ]
     },
     {
       "id": 17,
       "firstName": "FirstName  17",
       "lastName": "LastName  17",
-      "yearOfBirth": 1976.5546865473082,
+      "yearOfBirth": 1958.689091765512,
       "gender": "Male",
-      "age": 28,
+      "age": 5,
       "salary": {
-        "basic": 17944,
-        "bonus": 4224,
-        "stock": 72307
+        "basic": 8913,
+        "bonus": 68990,
+        "stock": 557
       },
       "role": "Role #17",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        28,
+        65,
+        50
+      ]
     },
     {
       "id": 18,
       "firstName": "FirstName  18",
       "lastName": "LastName  18",
-      "yearOfBirth": 1982.5053160463433,
+      "yearOfBirth": 1999.5911377504265,
       "gender": "Female",
-      "age": 81,
+      "age": 32,
       "salary": {
-        "basic": 42615,
-        "bonus": 99072,
-        "stock": 32727
+        "basic": 50451,
+        "bonus": 29146,
+        "stock": 92647
       },
       "role": "Role #18",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        43,
+        75,
+        93
+      ]
     },
     {
       "id": 19,
       "firstName": "FirstName  19",
       "lastName": "LastName  19",
-      "yearOfBirth": 1962.3428915010772,
+      "yearOfBirth": 1974.6265640866998,
       "gender": "Male",
-      "age": 78,
+      "age": 68,
       "salary": {
-        "basic": 62951,
-        "bonus": 94781,
-        "stock": 34842
+        "basic": 85706,
+        "bonus": 88564,
+        "stock": 18809
       },
       "role": "Role #19",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        28,
+        78,
+        42
+      ]
     },
     {
       "id": 20,
       "firstName": "FirstName  20",
       "lastName": "LastName  20",
-      "yearOfBirth": 1965.845680113851,
+      "yearOfBirth": 1952.7573458036784,
       "gender": "Female",
-      "age": 2,
+      "age": 47,
       "salary": {
-        "basic": 97429,
-        "bonus": 52540,
-        "stock": 95467
+        "basic": 25325,
+        "bonus": 78837,
+        "stock": 8905
       },
       "role": "Role #20",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        5,
+        73,
+        91
+      ]
     },
     {
       "id": 21,
       "firstName": "FirstName  21",
       "lastName": "LastName  21",
-      "yearOfBirth": 1965.4945268688987,
+      "yearOfBirth": 1984.4595517832379,
       "gender": "Male",
-      "age": 20,
+      "age": 52,
       "salary": {
-        "basic": 9144,
-        "bonus": 1301,
-        "stock": 98943
+        "basic": 75563,
+        "bonus": 83689,
+        "stock": 15476
       },
       "role": "Role #21",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        51,
+        60,
+        91
+      ]
     },
     {
       "id": 22,
       "firstName": "FirstName  22",
       "lastName": "LastName  22",
-      "yearOfBirth": 1973.2385011598985,
+      "yearOfBirth": 1965.8156015292743,
       "gender": "Female",
-      "age": 8,
+      "age": 43,
       "salary": {
-        "basic": 61448,
-        "bonus": 60763,
-        "stock": 77959
+        "basic": 80418,
+        "bonus": 49911,
+        "stock": 21813
       },
       "role": "Role #22",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        18,
+        90,
+        69
+      ]
     },
     {
       "id": 23,
       "firstName": "FirstName  23",
       "lastName": "LastName  23",
-      "yearOfBirth": 1966.0167578168068,
+      "yearOfBirth": 1966.2741488603226,
       "gender": "Male",
-      "age": 83,
+      "age": 47,
       "salary": {
-        "basic": 19716,
-        "bonus": 94846,
-        "stock": 84300
+        "basic": 88319,
+        "bonus": 56502,
+        "stock": 61135
       },
       "role": "Role #23",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        43,
+        49,
+        96
+      ]
     },
     {
       "id": 24,
       "firstName": "FirstName  24",
       "lastName": "LastName  24",
-      "yearOfBirth": 1971.9862004174659,
+      "yearOfBirth": 1999.860500996619,
       "gender": "Female",
-      "age": 42,
+      "age": 35,
       "salary": {
-        "basic": 14842,
-        "bonus": 90559,
-        "stock": 7594
+        "basic": 19309,
+        "bonus": 53447,
+        "stock": 76953
       },
       "role": "Role #24",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        76,
+        37,
+        10
+      ]
     },
     {
       "id": 25,
       "firstName": "FirstName  25",
       "lastName": "LastName  25",
-      "yearOfBirth": 1960.085098609046,
+      "yearOfBirth": 1990.0522381244111,
       "gender": "Male",
-      "age": 69,
+      "age": 87,
       "salary": {
-        "basic": 34098,
-        "bonus": 24185,
-        "stock": 89457
+        "basic": 16461,
+        "bonus": 14891,
+        "stock": 40558
       },
       "role": "Role #25",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        55,
+        17,
+        86
+      ]
     },
     {
       "id": 26,
       "firstName": "FirstName  26",
       "lastName": "LastName  26",
-      "yearOfBirth": 1985.407724548857,
+      "yearOfBirth": 1968.1780643027603,
       "gender": "Female",
-      "age": 53,
+      "age": 76,
       "salary": {
-        "basic": 19376,
-        "bonus": 22084,
-        "stock": 58394
+        "basic": 28028,
+        "bonus": 70567,
+        "stock": 43197
       },
       "role": "Role #26",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        91,
+        29,
+        15
+      ]
     },
     {
       "id": 27,
       "firstName": "FirstName  27",
       "lastName": "LastName  27",
-      "yearOfBirth": 1967.868953722923,
+      "yearOfBirth": 1976.8824537184369,
       "gender": "Male",
-      "age": 52,
+      "age": 40,
       "salary": {
-        "basic": 92512,
-        "bonus": 80348,
-        "stock": 58369
+        "basic": 7671,
+        "bonus": 83722,
+        "stock": 75904
       },
       "role": "Role #27",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        26,
+        68,
+        64
+      ]
     },
     {
       "id": 28,
       "firstName": "FirstName  28",
       "lastName": "LastName  28",
-      "yearOfBirth": 1962.856239663892,
+      "yearOfBirth": 1977.0428098375696,
       "gender": "Female",
-      "age": 35,
+      "age": 43,
       "salary": {
-        "basic": 28117,
-        "bonus": 95364,
-        "stock": 39571
+        "basic": 36276,
+        "bonus": 20993,
+        "stock": 60020
       },
       "role": "Role #28",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        50,
+        2,
+        24
+      ]
     },
     {
       "id": 29,
       "firstName": "FirstName  29",
       "lastName": "LastName  29",
-      "yearOfBirth": 1976.3633018262458,
+      "yearOfBirth": 1964.4292169709104,
       "gender": "Male",
-      "age": 67,
+      "age": 17,
       "salary": {
-        "basic": 64986,
-        "bonus": 14140,
-        "stock": 35657
+        "basic": 69135,
+        "bonus": 13999,
+        "stock": 35678
       },
       "role": "Role #29",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        23,
+        68,
+        31
+      ]
     },
     {
       "id": 30,
       "firstName": "FirstName  30",
       "lastName": "LastName  30",
-      "yearOfBirth": 1997.0786068226066,
+      "yearOfBirth": 1983.321963672233,
       "gender": "Female",
-      "age": 71,
+      "age": 25,
       "salary": {
-        "basic": 17468,
-        "bonus": 81794,
-        "stock": 46405
+        "basic": 6446,
+        "bonus": 24222,
+        "stock": 11760
       },
       "role": "Role #30",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        96,
+        2,
+        72
+      ]
     },
     {
       "id": 31,
       "firstName": "FirstName  31",
       "lastName": "LastName  31",
-      "yearOfBirth": 1970.4893398869117,
+      "yearOfBirth": 1992.970102934577,
       "gender": "Male",
-      "age": 53,
+      "age": 0,
       "salary": {
-        "basic": 91649,
-        "bonus": 71299,
-        "stock": 21057
+        "basic": 64771,
+        "bonus": 78793,
+        "stock": 82622
       },
       "role": "Role #31",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        6,
+        99,
+        37
+      ]
     },
     {
       "id": 32,
       "firstName": "FirstName  32",
       "lastName": "LastName  32",
-      "yearOfBirth": 1955.3840613212408,
+      "yearOfBirth": 1975.4826581176544,
       "gender": "Female",
-      "age": 1,
+      "age": 22,
       "salary": {
-        "basic": 63104,
-        "bonus": 64495,
-        "stock": 82479
+        "basic": 99324,
+        "bonus": 67465,
+        "stock": 43969
       },
       "role": "Role #32",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        90,
+        10,
+        15
+      ]
     },
     {
       "id": 33,
       "firstName": "FirstName  33",
       "lastName": "LastName  33",
-      "yearOfBirth": 1988.297401046585,
+      "yearOfBirth": 1994.9695243041456,
       "gender": "Male",
-      "age": 94,
+      "age": 59,
       "salary": {
-        "basic": 90732,
-        "bonus": 11171,
+        "basic": 9645,
+        "bonus": 12756,
         "stock": 67039
       },
       "role": "Role #33",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        55,
+        88,
+        79
+      ]
     },
     {
       "id": 34,
       "firstName": "FirstName  34",
       "lastName": "LastName  34",
-      "yearOfBirth": 1995.9166250207913,
+      "yearOfBirth": 1964.6787688164197,
       "gender": "Female",
-      "age": 46,
+      "age": 86,
       "salary": {
-        "basic": 49447,
-        "bonus": 78900,
-        "stock": 90443
+        "basic": 7999,
+        "bonus": 35782,
+        "stock": 82105
       },
       "role": "Role #34",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        8,
+        74,
+        62
+      ]
     },
     {
       "id": 35,
       "firstName": "FirstName  35",
       "lastName": "LastName  35",
-      "yearOfBirth": 1984.3199402504479,
+      "yearOfBirth": 1993.1518276517913,
       "gender": "Male",
-      "age": 20,
+      "age": 42,
       "salary": {
-        "basic": 46029,
-        "bonus": 5594,
-        "stock": 83978
+        "basic": 60745,
+        "bonus": 62529,
+        "stock": 58016
       },
       "role": "Role #35",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        0,
+        16,
+        49
+      ]
     },
     {
       "id": 36,
       "firstName": "FirstName  36",
       "lastName": "LastName  36",
-      "yearOfBirth": 1997.4057028558946,
+      "yearOfBirth": 1958.2836873595973,
       "gender": "Female",
-      "age": 91,
+      "age": 15,
       "salary": {
-        "basic": 48434,
-        "bonus": 37583,
-        "stock": 31871
+        "basic": 11881,
+        "bonus": 7668,
+        "stock": 67503
       },
       "role": "Role #36",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        10,
+        31,
+        30
+      ]
     },
     {
       "id": 37,
       "firstName": "FirstName  37",
       "lastName": "LastName  37",
-      "yearOfBirth": 1985.0863665812954,
+      "yearOfBirth": 1950.938646393537,
       "gender": "Male",
-      "age": 0,
+      "age": 88,
       "salary": {
-        "basic": 169,
-        "bonus": 77926,
-        "stock": 22408
+        "basic": 99358,
+        "bonus": 73074,
+        "stock": 91998
       },
       "role": "Role #37",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        3,
+        60,
+        23
+      ]
     },
     {
       "id": 38,
       "firstName": "FirstName  38",
       "lastName": "LastName  38",
-      "yearOfBirth": 1987.380440562596,
+      "yearOfBirth": 1994.7883469466153,
       "gender": "Female",
-      "age": 45,
+      "age": 48,
       "salary": {
-        "basic": 12846,
-        "bonus": 52980,
-        "stock": 80022
+        "basic": 21807,
+        "bonus": 50690,
+        "stock": 52857
       },
       "role": "Role #38",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        4,
+        38,
+        0
+      ]
     },
     {
       "id": 39,
       "firstName": "FirstName  39",
       "lastName": "LastName  39",
-      "yearOfBirth": 1999.6069414197955,
+      "yearOfBirth": 1954.4515136715863,
       "gender": "Male",
-      "age": 3,
+      "age": 92,
       "salary": {
-        "basic": 16357,
-        "bonus": 56659,
-        "stock": 95942
+        "basic": 16270,
+        "bonus": 80493,
+        "stock": 87743
       },
       "role": "Role #39",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        71,
+        47,
+        57
+      ]
     },
     {
       "id": 40,
       "firstName": "FirstName  40",
       "lastName": "LastName  40",
-      "yearOfBirth": 1973.5895699900332,
+      "yearOfBirth": 1988.3903379087735,
       "gender": "Female",
-      "age": 34,
+      "age": 39,
       "salary": {
-        "basic": 3004,
-        "bonus": 45062,
-        "stock": 2406
+        "basic": 984,
+        "bonus": 90904,
+        "stock": 39332
       },
       "role": "Role #40",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        10,
+        90,
+        37
+      ]
     },
     {
       "id": 41,
       "firstName": "FirstName  41",
       "lastName": "LastName  41",
-      "yearOfBirth": 1966.1215255035352,
+      "yearOfBirth": 1988.8153331989174,
       "gender": "Male",
-      "age": 32,
+      "age": 92,
       "salary": {
-        "basic": 51552,
-        "bonus": 93216,
-        "stock": 42860
+        "basic": 39765,
+        "bonus": 28407,
+        "stock": 2740
       },
       "role": "Role #41",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        76,
+        33,
+        17
+      ]
     },
     {
       "id": 42,
       "firstName": "FirstName  42",
       "lastName": "LastName  42",
-      "yearOfBirth": 1961.1418648172953,
+      "yearOfBirth": 1972.4479629965908,
       "gender": "Female",
-      "age": 91,
+      "age": 80,
       "salary": {
-        "basic": 54537,
-        "bonus": 67185,
-        "stock": 66916
+        "basic": 76747,
+        "bonus": 45753,
+        "stock": 60432
       },
       "role": "Role #42",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        16,
+        9,
+        2
+      ]
     },
     {
       "id": 43,
       "firstName": "FirstName  43",
       "lastName": "LastName  43",
-      "yearOfBirth": 1964.3512802615946,
+      "yearOfBirth": 1962.5572841584444,
       "gender": "Male",
-      "age": 11,
+      "age": 21,
       "salary": {
-        "basic": 81047,
-        "bonus": 79992,
-        "stock": 96924
+        "basic": 52954,
+        "bonus": 2716,
+        "stock": 4369
       },
       "role": "Role #43",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        18,
+        58,
+        13
+      ]
     },
     {
       "id": 44,
       "firstName": "FirstName  44",
       "lastName": "LastName  44",
-      "yearOfBirth": 1963.56544163022,
+      "yearOfBirth": 1992.6905741747962,
       "gender": "Female",
-      "age": 36,
+      "age": 60,
       "salary": {
-        "basic": 14039,
-        "bonus": 28754,
-        "stock": 28662
+        "basic": 6962,
+        "bonus": 62649,
+        "stock": 39829
       },
       "role": "Role #44",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        70,
+        18,
+        27
+      ]
     },
     {
       "id": 45,
       "firstName": "FirstName  45",
       "lastName": "LastName  45",
-      "yearOfBirth": 1986.0875411010884,
+      "yearOfBirth": 1986.1620753233565,
       "gender": "Male",
-      "age": 91,
+      "age": 22,
       "salary": {
-        "basic": 179,
-        "bonus": 25079,
-        "stock": 48568
+        "basic": 6743,
+        "bonus": 76388,
+        "stock": 69166
       },
       "role": "Role #45",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        13,
+        48,
+        62
+      ]
     },
     {
       "id": 46,
       "firstName": "FirstName  46",
       "lastName": "LastName  46",
-      "yearOfBirth": 1954.1986534632908,
+      "yearOfBirth": 1974.7429075696048,
       "gender": "Female",
-      "age": 14,
+      "age": 33,
       "salary": {
-        "basic": 3502,
-        "bonus": 58409,
-        "stock": 91183
+        "basic": 88903,
+        "bonus": 86479,
+        "stock": 24678
       },
       "role": "Role #46",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        20,
+        35,
+        44
+      ]
     },
     {
       "id": 47,
       "firstName": "FirstName  47",
       "lastName": "LastName  47",
-      "yearOfBirth": 1960.071756305867,
+      "yearOfBirth": 1971.3731024210883,
       "gender": "Male",
-      "age": 99,
+      "age": 62,
       "salary": {
-        "basic": 55208,
-        "bonus": 91457,
-        "stock": 59120
+        "basic": 26399,
+        "bonus": 74903,
+        "stock": 87249
       },
       "role": "Role #47",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        36,
+        8,
+        44
+      ]
     },
     {
       "id": 48,
       "firstName": "FirstName  48",
       "lastName": "LastName  48",
-      "yearOfBirth": 1972.2054305669767,
+      "yearOfBirth": 1969.1829741624035,
       "gender": "Female",
-      "age": 99,
+      "age": 87,
       "salary": {
-        "basic": 80042,
-        "bonus": 29581,
-        "stock": 34114
+        "basic": 80591,
+        "bonus": 26097,
+        "stock": 68042
       },
       "role": "Role #48",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        13,
+        29,
+        67
+      ]
     },
     {
       "id": 49,
       "firstName": "FirstName  49",
       "lastName": "LastName  49",
-      "yearOfBirth": 1981.7161723634272,
+      "yearOfBirth": 1998.9939694793084,
       "gender": "Male",
-      "age": 29,
+      "age": 44,
       "salary": {
-        "basic": 80228,
-        "bonus": 74189,
-        "stock": 65541
+        "basic": 92654,
+        "bonus": 89081,
+        "stock": 65508
       },
       "role": "Role #49",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        75,
+        39,
+        47
+      ]
     },
     {
       "id": 50,
       "firstName": "FirstName  50",
       "lastName": "LastName  50",
-      "yearOfBirth": 1985.7646684446179,
+      "yearOfBirth": 1972.3612141273697,
       "gender": "Female",
-      "age": 45,
+      "age": 78,
       "salary": {
-        "basic": 67685,
-        "bonus": 21842,
-        "stock": 91203
+        "basic": 95322,
+        "bonus": 65597,
+        "stock": 23443
       },
       "role": "Role #50",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        6,
+        63,
+        39
+      ]
     },
     {
       "id": 51,
       "firstName": "FirstName  51",
       "lastName": "LastName  51",
-      "yearOfBirth": 1969.2250713007054,
+      "yearOfBirth": 1975.9818441914263,
       "gender": "Male",
-      "age": 76,
+      "age": 8,
       "salary": {
-        "basic": 9664,
-        "bonus": 57266,
-        "stock": 44994
+        "basic": 55075,
+        "bonus": 50743,
+        "stock": 73168
       },
       "role": "Role #51",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        51,
+        85,
+        93
+      ]
     },
     {
       "id": 52,
       "firstName": "FirstName  52",
       "lastName": "LastName  52",
-      "yearOfBirth": 1982.486720566644,
+      "yearOfBirth": 1990.2642783839347,
       "gender": "Female",
-      "age": 67,
+      "age": 47,
       "salary": {
-        "basic": 25500,
-        "bonus": 33733,
-        "stock": 78411
+        "basic": 86609,
+        "bonus": 19533,
+        "stock": 58298
       },
       "role": "Role #52",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        35,
+        94,
+        29
+      ]
     },
     {
       "id": 53,
       "firstName": "FirstName  53",
       "lastName": "LastName  53",
-      "yearOfBirth": 1987.246597565867,
+      "yearOfBirth": 1996.7361169043454,
       "gender": "Male",
-      "age": 33,
+      "age": 1,
       "salary": {
-        "basic": 5851,
-        "bonus": 42457,
-        "stock": 27685
+        "basic": 23591,
+        "bonus": 99094,
+        "stock": 79510
       },
       "role": "Role #53",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        30,
+        54,
+        96
+      ]
     },
     {
       "id": 54,
       "firstName": "FirstName  54",
       "lastName": "LastName  54",
-      "yearOfBirth": 1968.1700376655988,
+      "yearOfBirth": 1988.2653591643282,
       "gender": "Female",
-      "age": 95,
+      "age": 40,
       "salary": {
-        "basic": 21490,
-        "bonus": 30803,
-        "stock": 61097
+        "basic": 83113,
+        "bonus": 66018,
+        "stock": 76870
       },
       "role": "Role #54",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        91,
+        95,
+        35
+      ]
     },
     {
       "id": 55,
       "firstName": "FirstName  55",
       "lastName": "LastName  55",
-      "yearOfBirth": 1951.281850508844,
+      "yearOfBirth": 1976.4327938346846,
       "gender": "Male",
-      "age": 11,
+      "age": 71,
       "salary": {
-        "basic": 15993,
-        "bonus": 92155,
-        "stock": 70191
+        "basic": 8490,
+        "bonus": 24737,
+        "stock": 78315
       },
       "role": "Role #55",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        55,
+        36,
+        53
+      ]
     },
     {
       "id": 56,
       "firstName": "FirstName  56",
       "lastName": "LastName  56",
-      "yearOfBirth": 1951.2949786842867,
+      "yearOfBirth": 1985.4972079993245,
       "gender": "Female",
-      "age": 49,
+      "age": 28,
       "salary": {
-        "basic": 89603,
-        "bonus": 97318,
-        "stock": 11408
+        "basic": 75795,
+        "bonus": 65382,
+        "stock": 40099
       },
       "role": "Role #56",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        97,
+        65,
+        44
+      ]
     },
     {
       "id": 57,
       "firstName": "FirstName  57",
       "lastName": "LastName  57",
-      "yearOfBirth": 1969.0315814084256,
+      "yearOfBirth": 1981.3740931775471,
       "gender": "Male",
-      "age": 57,
+      "age": 78,
       "salary": {
-        "basic": 49621,
-        "bonus": 59963,
-        "stock": 51337
+        "basic": 820,
+        "bonus": 7533,
+        "stock": 94138
       },
       "role": "Role #57",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        52,
+        87,
+        41
+      ]
     },
     {
       "id": 58,
       "firstName": "FirstName  58",
       "lastName": "LastName  58",
-      "yearOfBirth": 1950.2138561559987,
+      "yearOfBirth": 1960.8531345648892,
       "gender": "Female",
-      "age": 75,
+      "age": 68,
       "salary": {
-        "basic": 48840,
-        "bonus": 13551,
-        "stock": 64376
+        "basic": 19525,
+        "bonus": 85326,
+        "stock": 62413
       },
       "role": "Role #58",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        25,
+        48,
+        67
+      ]
     },
     {
       "id": 59,
       "firstName": "FirstName  59",
       "lastName": "LastName  59",
-      "yearOfBirth": 1960.265670412809,
+      "yearOfBirth": 1974.9618067032752,
       "gender": "Male",
-      "age": 75,
+      "age": 42,
       "salary": {
-        "basic": 40427,
-        "bonus": 35259,
-        "stock": 35695
+        "basic": 246,
+        "bonus": 50911,
+        "stock": 19720
       },
       "role": "Role #59",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        39,
+        34,
+        0
+      ]
     },
     {
       "id": 60,
       "firstName": "FirstName  60",
       "lastName": "LastName  60",
-      "yearOfBirth": 1967.3937698866869,
+      "yearOfBirth": 1982.8756159284405,
       "gender": "Female",
-      "age": 4,
+      "age": 30,
       "salary": {
-        "basic": 53388,
-        "bonus": 23229,
-        "stock": 48938
+        "basic": 39975,
+        "bonus": 48555,
+        "stock": 69813
       },
       "role": "Role #60",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        94,
+        72,
+        83
+      ]
     },
     {
       "id": 61,
       "firstName": "FirstName  61",
       "lastName": "LastName  61",
-      "yearOfBirth": 1952.1926242165612,
+      "yearOfBirth": 1998.337490706051,
       "gender": "Male",
-      "age": 53,
+      "age": 15,
       "salary": {
-        "basic": 10542,
-        "bonus": 27434,
-        "stock": 5896
+        "basic": 68738,
+        "bonus": 92464,
+        "stock": 98762
       },
       "role": "Role #61",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        49,
+        84,
+        36
+      ]
     },
     {
       "id": 62,
       "firstName": "FirstName  62",
       "lastName": "LastName  62",
-      "yearOfBirth": 1994.5370118399726,
+      "yearOfBirth": 1973.260786558247,
       "gender": "Female",
-      "age": 22,
+      "age": 18,
       "salary": {
-        "basic": 95385,
-        "bonus": 55285,
-        "stock": 94264
+        "basic": 15736,
+        "bonus": 32608,
+        "stock": 10868
       },
       "role": "Role #62",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        19,
+        32,
+        52
+      ]
     },
     {
       "id": 63,
       "firstName": "FirstName  63",
       "lastName": "LastName  63",
-      "yearOfBirth": 1983.4666242720816,
+      "yearOfBirth": 1977.9616700370261,
       "gender": "Male",
-      "age": 76,
+      "age": 93,
       "salary": {
-        "basic": 34405,
-        "bonus": 66051,
-        "stock": 67741
+        "basic": 15159,
+        "bonus": 76220,
+        "stock": 70311
       },
       "role": "Role #63",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        63,
+        67,
+        31
+      ]
     },
     {
       "id": 64,
       "firstName": "FirstName  64",
       "lastName": "LastName  64",
-      "yearOfBirth": 1994.7910386438323,
+      "yearOfBirth": 1962.5595380364794,
       "gender": "Female",
-      "age": 15,
+      "age": 88,
       "salary": {
-        "basic": 38039,
-        "bonus": 9509,
-        "stock": 38773
+        "basic": 89002,
+        "bonus": 82375,
+        "stock": 27466
       },
       "role": "Role #64",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        92,
+        35,
+        17
+      ]
     },
     {
       "id": 65,
       "firstName": "FirstName  65",
       "lastName": "LastName  65",
-      "yearOfBirth": 1962.6925840019558,
+      "yearOfBirth": 1958.7475342785235,
       "gender": "Male",
-      "age": 71,
+      "age": 64,
       "salary": {
-        "basic": 18954,
-        "bonus": 4802,
-        "stock": 55741
+        "basic": 48365,
+        "bonus": 47133,
+        "stock": 58530
       },
       "role": "Role #65",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        83,
+        47,
+        43
+      ]
     },
     {
       "id": 66,
       "firstName": "FirstName  66",
       "lastName": "LastName  66",
-      "yearOfBirth": 1997.7291313616902,
+      "yearOfBirth": 1965.8888145384933,
       "gender": "Female",
-      "age": 12,
+      "age": 34,
       "salary": {
-        "basic": 7917,
-        "bonus": 8826,
-        "stock": 83468
+        "basic": 24261,
+        "bonus": 78157,
+        "stock": 80235
       },
       "role": "Role #66",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        59,
+        66,
+        9
+      ]
     },
     {
       "id": 67,
       "firstName": "FirstName  67",
       "lastName": "LastName  67",
-      "yearOfBirth": 1965.4929909017862,
+      "yearOfBirth": 1969.061436618711,
       "gender": "Male",
-      "age": 72,
+      "age": 1,
       "salary": {
-        "basic": 13667,
-        "bonus": 21641,
-        "stock": 41362
+        "basic": 66940,
+        "bonus": 88913,
+        "stock": 22251
       },
       "role": "Role #67",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        39,
+        50,
+        46
+      ]
     },
     {
       "id": 68,
       "firstName": "FirstName  68",
       "lastName": "LastName  68",
-      "yearOfBirth": 1972.9676435494698,
+      "yearOfBirth": 1960.2827008767663,
       "gender": "Female",
-      "age": 75,
+      "age": 89,
       "salary": {
-        "basic": 24829,
-        "bonus": 22624,
-        "stock": 48637
+        "basic": 14993,
+        "bonus": 30160,
+        "stock": 22019
       },
       "role": "Role #68",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        74,
+        27,
+        73
+      ]
     },
     {
       "id": 69,
       "firstName": "FirstName  69",
       "lastName": "LastName  69",
-      "yearOfBirth": 1988.8757974464677,
+      "yearOfBirth": 1985.866449838311,
       "gender": "Male",
-      "age": 43,
+      "age": 72,
       "salary": {
-        "basic": 28240,
-        "bonus": 10291,
-        "stock": 71505
+        "basic": 19879,
+        "bonus": 1115,
+        "stock": 1042
       },
       "role": "Role #69",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        21,
+        92,
+        50
+      ]
     },
     {
       "id": 70,
       "firstName": "FirstName  70",
       "lastName": "LastName  70",
-      "yearOfBirth": 1952.1540740113865,
+      "yearOfBirth": 1973.0604974174717,
       "gender": "Female",
-      "age": 43,
+      "age": 85,
       "salary": {
-        "basic": 94794,
-        "bonus": 7715,
-        "stock": 39426
+        "basic": 53224,
+        "bonus": 46890,
+        "stock": 46482
       },
       "role": "Role #70",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        5,
+        49,
+        3
+      ]
     },
     {
       "id": 71,
       "firstName": "FirstName  71",
       "lastName": "LastName  71",
-      "yearOfBirth": 1959.114792047038,
+      "yearOfBirth": 1953.3923812131193,
       "gender": "Male",
-      "age": 41,
+      "age": 23,
       "salary": {
-        "basic": 63114,
-        "bonus": 92171,
-        "stock": 82378
+        "basic": 29454,
+        "bonus": 92878,
+        "stock": 79261
       },
       "role": "Role #71",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        6,
+        54,
+        4
+      ]
     },
     {
       "id": 72,
       "firstName": "FirstName  72",
       "lastName": "LastName  72",
-      "yearOfBirth": 1957.4368662904042,
+      "yearOfBirth": 1978.6946160200966,
       "gender": "Female",
-      "age": 87,
+      "age": 25,
       "salary": {
-        "basic": 27244,
-        "bonus": 53831,
-        "stock": 38250
+        "basic": 6494,
+        "bonus": 63374,
+        "stock": 64419
       },
       "role": "Role #72",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        98,
+        65,
+        96
+      ]
     },
     {
       "id": 73,
       "firstName": "FirstName  73",
       "lastName": "LastName  73",
-      "yearOfBirth": 1996.4016200442243,
+      "yearOfBirth": 1979.8222340272005,
       "gender": "Male",
-      "age": 95,
+      "age": 1,
       "salary": {
-        "basic": 94223,
-        "bonus": 49793,
-        "stock": 45539
+        "basic": 62876,
+        "bonus": 35779,
+        "stock": 91287
       },
       "role": "Role #73",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        68,
+        82,
+        73
+      ]
     },
     {
       "id": 74,
       "firstName": "FirstName  74",
       "lastName": "LastName  74",
-      "yearOfBirth": 1970.3497075443522,
+      "yearOfBirth": 1967.4473161691449,
       "gender": "Female",
-      "age": 28,
+      "age": 62,
       "salary": {
-        "basic": 3403,
-        "bonus": 6972,
-        "stock": 53925
+        "basic": 89738,
+        "bonus": 71653,
+        "stock": 10604
       },
       "role": "Role #74",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        30,
+        8,
+        9
+      ]
     },
     {
       "id": 75,
       "firstName": "FirstName  75",
       "lastName": "LastName  75",
-      "yearOfBirth": 1993.0260257706495,
+      "yearOfBirth": 1976.5516589332724,
       "gender": "Male",
-      "age": 34,
+      "age": 17,
       "salary": {
-        "basic": 64243,
-        "bonus": 88512,
-        "stock": 6224
+        "basic": 73660,
+        "bonus": 93136,
+        "stock": 85666
       },
       "role": "Role #75",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        16,
+        90,
+        63
+      ]
     },
     {
       "id": 76,
       "firstName": "FirstName  76",
       "lastName": "LastName  76",
-      "yearOfBirth": 1975.4851426699981,
+      "yearOfBirth": 1963.4094264715136,
       "gender": "Female",
-      "age": 62,
+      "age": 27,
       "salary": {
-        "basic": 18904,
-        "bonus": 24503,
-        "stock": 51278
+        "basic": 31414,
+        "bonus": 84284,
+        "stock": 95783
       },
       "role": "Role #76",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        19,
+        74,
+        20
+      ]
     },
     {
       "id": 77,
       "firstName": "FirstName  77",
       "lastName": "LastName  77",
-      "yearOfBirth": 1994.448134922971,
+      "yearOfBirth": 1952.3438551822444,
       "gender": "Male",
-      "age": 26,
+      "age": 49,
       "salary": {
-        "basic": 63726,
-        "bonus": 15804,
-        "stock": 99402
+        "basic": 6087,
+        "bonus": 40681,
+        "stock": 94925
       },
       "role": "Role #77",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        13,
+        55,
+        61
+      ]
     },
     {
       "id": 78,
       "firstName": "FirstName  78",
       "lastName": "LastName  78",
-      "yearOfBirth": 1956.096391594815,
+      "yearOfBirth": 1958.9178306647027,
       "gender": "Female",
-      "age": 3,
+      "age": 58,
       "salary": {
-        "basic": 63793,
-        "bonus": 55011,
-        "stock": 79119
+        "basic": 5773,
+        "bonus": 92453,
+        "stock": 23956
       },
       "role": "Role #78",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        34,
+        17,
+        2
+      ]
     },
     {
       "id": 79,
       "firstName": "FirstName  79",
       "lastName": "LastName  79",
-      "yearOfBirth": 1971.2769399090685,
+      "yearOfBirth": 1982.662769936879,
       "gender": "Male",
-      "age": 88,
+      "age": 82,
       "salary": {
-        "basic": 95237,
-        "bonus": 80156,
-        "stock": 47174
+        "basic": 52474,
+        "bonus": 62107,
+        "stock": 85399
       },
       "role": "Role #79",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        89,
+        66,
+        33
+      ]
     },
     {
       "id": 80,
       "firstName": "FirstName  80",
       "lastName": "LastName  80",
-      "yearOfBirth": 1996.9227330243623,
+      "yearOfBirth": 1952.0434636178757,
       "gender": "Female",
-      "age": 58,
+      "age": 64,
       "salary": {
-        "basic": 16512,
-        "bonus": 92117,
-        "stock": 89906
+        "basic": 53091,
+        "bonus": 79483,
+        "stock": 78756
       },
       "role": "Role #80",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        51,
+        8,
+        11
+      ]
     },
     {
       "id": 81,
       "firstName": "FirstName  81",
       "lastName": "LastName  81",
-      "yearOfBirth": 1975.3906044182015,
+      "yearOfBirth": 1996.2220903092978,
       "gender": "Male",
-      "age": 91,
+      "age": 83,
       "salary": {
-        "basic": 3011,
-        "bonus": 96809,
-        "stock": 51936
+        "basic": 18142,
+        "bonus": 27596,
+        "stock": 11605
       },
       "role": "Role #81",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        27,
+        94,
+        5
+      ]
     },
     {
       "id": 82,
       "firstName": "FirstName  82",
       "lastName": "LastName  82",
-      "yearOfBirth": 1956.5219063839556,
+      "yearOfBirth": 1992.6673680868514,
       "gender": "Female",
-      "age": 88,
+      "age": 90,
       "salary": {
-        "basic": 17397,
-        "bonus": 92049,
-        "stock": 90044
+        "basic": 19821,
+        "bonus": 32703,
+        "stock": 87442
       },
       "role": "Role #82",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        42,
+        40,
+        88
+      ]
     },
     {
       "id": 83,
       "firstName": "FirstName  83",
       "lastName": "LastName  83",
-      "yearOfBirth": 1972.7865664648775,
+      "yearOfBirth": 1961.328433230165,
       "gender": "Male",
-      "age": 53,
+      "age": 26,
       "salary": {
-        "basic": 49351,
-        "bonus": 19736,
-        "stock": 90602
+        "basic": 69662,
+        "bonus": 30044,
+        "stock": 53023
       },
       "role": "Role #83",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        21,
+        49,
+        14
+      ]
     },
     {
       "id": 84,
       "firstName": "FirstName  84",
       "lastName": "LastName  84",
-      "yearOfBirth": 1981.7582814005955,
+      "yearOfBirth": 1975.3908770468713,
       "gender": "Female",
-      "age": 63,
+      "age": 20,
       "salary": {
-        "basic": 34387,
-        "bonus": 78395,
-        "stock": 63102
+        "basic": 80306,
+        "bonus": 17136,
+        "stock": 62343
       },
       "role": "Role #84",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        87,
+        70,
+        49
+      ]
     },
     {
       "id": 85,
       "firstName": "FirstName  85",
       "lastName": "LastName  85",
-      "yearOfBirth": 1968.818885306361,
+      "yearOfBirth": 1998.5105591848828,
       "gender": "Male",
-      "age": 0,
+      "age": 88,
       "salary": {
-        "basic": 79504,
-        "bonus": 23051,
-        "stock": 89980
+        "basic": 54535,
+        "bonus": 30676,
+        "stock": 31100
       },
       "role": "Role #85",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        59,
+        2,
+        55
+      ]
     },
     {
       "id": 86,
       "firstName": "FirstName  86",
       "lastName": "LastName  86",
-      "yearOfBirth": 1992.7091123523464,
+      "yearOfBirth": 1999.2258011624522,
       "gender": "Female",
-      "age": 48,
+      "age": 98,
       "salary": {
-        "basic": 7189,
-        "bonus": 44401,
-        "stock": 34049
+        "basic": 670,
+        "bonus": 27849,
+        "stock": 17494
       },
       "role": "Role #86",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        80,
+        83,
+        89
+      ]
     },
     {
       "id": 87,
       "firstName": "FirstName  87",
       "lastName": "LastName  87",
-      "yearOfBirth": 1979.9550875991488,
+      "yearOfBirth": 1962.6989970572417,
       "gender": "Male",
-      "age": 39,
+      "age": 55,
       "salary": {
-        "basic": 36417,
-        "bonus": 91979,
-        "stock": 67020
+        "basic": 15404,
+        "bonus": 54519,
+        "stock": 62556
       },
       "role": "Role #87",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        81,
+        53,
+        37
+      ]
     },
     {
       "id": 88,
       "firstName": "FirstName  88",
       "lastName": "LastName  88",
-      "yearOfBirth": 1974.1432203788454,
+      "yearOfBirth": 1950.2424428831944,
       "gender": "Female",
-      "age": 30,
+      "age": 74,
       "salary": {
-        "basic": 45857,
-        "bonus": 69389,
-        "stock": 82933
+        "basic": 6034,
+        "bonus": 50113,
+        "stock": 47961
       },
       "role": "Role #88",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        16,
+        50,
+        8
+      ]
     },
     {
       "id": 89,
       "firstName": "FirstName  89",
       "lastName": "LastName  89",
-      "yearOfBirth": 1997.666797458228,
+      "yearOfBirth": 1962.161038927887,
       "gender": "Male",
-      "age": 84,
+      "age": 81,
       "salary": {
-        "basic": 43950,
-        "bonus": 2212,
-        "stock": 37422
+        "basic": 25949,
+        "bonus": 7853,
+        "stock": 14871
       },
       "role": "Role #89",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        73,
+        51,
+        12
+      ]
     },
     {
       "id": 90,
       "firstName": "FirstName  90",
       "lastName": "LastName  90",
-      "yearOfBirth": 1982.2158038287596,
+      "yearOfBirth": 1985.0056082288868,
       "gender": "Female",
-      "age": 95,
+      "age": 5,
       "salary": {
-        "basic": 84421,
-        "bonus": 65811,
-        "stock": 76495
+        "basic": 94859,
+        "bonus": 20412,
+        "stock": 40104
       },
       "role": "Role #90",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        75,
+        80,
+        60
+      ]
     },
     {
       "id": 91,
       "firstName": "FirstName  91",
       "lastName": "LastName  91",
-      "yearOfBirth": 1973.9502016700774,
+      "yearOfBirth": 1998.703376476502,
       "gender": "Male",
-      "age": 20,
+      "age": 3,
       "salary": {
-        "basic": 66030,
-        "bonus": 1883,
-        "stock": 30334
+        "basic": 23419,
+        "bonus": 69936,
+        "stock": 90930
       },
       "role": "Role #91",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        58,
+        69,
+        82
+      ]
     },
     {
       "id": 92,
       "firstName": "FirstName  92",
       "lastName": "LastName  92",
-      "yearOfBirth": 1973.7743627457442,
+      "yearOfBirth": 1960.1832892718999,
       "gender": "Female",
-      "age": 39,
+      "age": 38,
       "salary": {
-        "basic": 39828,
-        "bonus": 64497,
-        "stock": 16126
+        "basic": 56966,
+        "bonus": 49467,
+        "stock": 39772
       },
       "role": "Role #92",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        37,
+        72,
+        5
+      ]
     },
     {
       "id": 93,
       "firstName": "FirstName  93",
       "lastName": "LastName  93",
-      "yearOfBirth": 1993.571992666915,
+      "yearOfBirth": 1961.5466840664965,
       "gender": "Male",
-      "age": 58,
+      "age": 74,
       "salary": {
-        "basic": 31359,
-        "bonus": 47981,
-        "stock": 25731
+        "basic": 69032,
+        "bonus": 55494,
+        "stock": 22919
       },
       "role": "Role #93",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        82,
+        78,
+        66
+      ]
     },
     {
       "id": 94,
       "firstName": "FirstName  94",
       "lastName": "LastName  94",
-      "yearOfBirth": 1952.2643994683522,
+      "yearOfBirth": 1969.211338993097,
       "gender": "Female",
-      "age": 4,
+      "age": 60,
       "salary": {
-        "basic": 23068,
-        "bonus": 43414,
-        "stock": 9857
+        "basic": 24636,
+        "bonus": 39937,
+        "stock": 35986
       },
       "role": "Role #94",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        75,
+        59,
+        63
+      ]
     },
     {
       "id": 95,
       "firstName": "FirstName  95",
       "lastName": "LastName  95",
-      "yearOfBirth": 1975.0721511960871,
+      "yearOfBirth": 1994.152783417884,
       "gender": "Male",
-      "age": 72,
+      "age": 46,
       "salary": {
-        "basic": 4089,
-        "bonus": 69632,
-        "stock": 63092
+        "basic": 32814,
+        "bonus": 63424,
+        "stock": 13020
       },
       "role": "Role #95",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        96,
+        25,
+        78
+      ]
     },
     {
       "id": 96,
       "firstName": "FirstName  96",
       "lastName": "LastName  96",
-      "yearOfBirth": 1997.1482448891807,
+      "yearOfBirth": 1959.7064179071263,
       "gender": "Female",
-      "age": 58,
+      "age": 72,
       "salary": {
-        "basic": 58340,
-        "bonus": 38573,
-        "stock": 14772
+        "basic": 26523,
+        "bonus": 33307,
+        "stock": 950
       },
       "role": "Role #96",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        78,
+        7,
+        80
+      ]
     },
     {
       "id": 97,
       "firstName": "FirstName  97",
       "lastName": "LastName  97",
-      "yearOfBirth": 1958.8420296592935,
+      "yearOfBirth": 1964.8421532670422,
       "gender": "Male",
-      "age": 76,
+      "age": 48,
       "salary": {
-        "basic": 71620,
-        "bonus": 72847,
-        "stock": 73732
+        "basic": 24958,
+        "bonus": 65416,
+        "stock": 88021
       },
       "role": "Role #97",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        38,
+        51,
+        96
+      ]
     },
     {
       "id": 98,
       "firstName": "FirstName  98",
       "lastName": "LastName  98",
-      "yearOfBirth": 1976.6845318986423,
+      "yearOfBirth": 1954.5705158558137,
       "gender": "Female",
-      "age": 33,
+      "age": 67,
       "salary": {
-        "basic": 82514,
-        "bonus": 32035,
-        "stock": 32262
+        "basic": 80711,
+        "bonus": 29998,
+        "stock": 41783
       },
       "role": "Role #98",
-      "city": "Paris"
+      "city": "Paris",
+      "equipmentIds": [
+        29,
+        61,
+        93
+      ]
     },
     {
       "id": 99,
       "firstName": "FirstName  99",
       "lastName": "LastName  99",
-      "yearOfBirth": 1987.4347731295925,
+      "yearOfBirth": 1984.2399092727894,
       "gender": "Male",
-      "age": 8,
+      "age": 35,
       "salary": {
-        "basic": 1073,
-        "bonus": 88132,
-        "stock": 80840
+        "basic": 41556,
+        "bonus": 2672,
+        "stock": 32290
       },
       "role": "Role #99",
-      "city": "London"
+      "city": "London",
+      "equipmentIds": [
+        98,
+        83,
+        54
+      ]
     }
   ]
 }
